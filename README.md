@@ -6,7 +6,7 @@ In order to save you a few hours, this repository takes you a few steps further 
 
 * [Initializr](http://www.initializr.com/)
 * [Twitter Bootstrap 3](http://getbootstrap.com/)
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Font Awesome 4](http://fortawesome.github.io/Font-Awesome/)
 * [jQuery](http://jquery.com/)
 * [Google Web Fonts](https://www.google.com/fonts/)
 * [Google Analytics](http://www.google.com/analytics/)
